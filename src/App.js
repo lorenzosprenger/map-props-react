@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ListaDeTarefas from './ListaDeTarefas';
+import ListaDeTarefas from './componentes/ListaDeTarefas';
 
 function App() {
   const tarefas = [
